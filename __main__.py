@@ -15,7 +15,7 @@ def text_to_speech(text):
     engine.runAndWait()
     
     
-openai.api_key = "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"
+openai.api_key = ""
 
 
 
